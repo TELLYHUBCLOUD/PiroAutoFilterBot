@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="https://cdn.dribbble.com/users/756147/screenshots/3717193/media/913d7ff75d531065694c46c9f602d43f.gif">
 </p>
 <h1 align="center">
   <b>PiroAutoFilterBot</b>
